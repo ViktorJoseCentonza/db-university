@@ -14,15 +14,34 @@ Esportare quindi il diagramma in png, caricarlo nella repo in un file index.html
 
 
 # Table name: *dipartimenti*
+- id
+- nome_dipartimento
+
 
 # Table name: *corsi_di_laurea*
+- id
+- nome_laurea
 
 # Table name: *corsi*
+- id
+- nome_corso
 
 # Table name: *insegnanti*
+- id
+- nome_insegnante
+- cognome_insegnante
 
 # Table name: *appelli*
+- id
+- numero_appelli
+
 
 # Table name: *studente*
+- id
+- nome_studente
+- cognome_studente
 
 # Table name: *risultati*
+- id
+- voto_studente
+
