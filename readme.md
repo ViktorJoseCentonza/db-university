@@ -20,10 +20,12 @@ Esportare quindi il diagramma in png, caricarlo nella repo in un file index.html
 
 # Table name: *corsi_di_laurea*
 - id
+- id_dipartimento
 - nome_laurea
 
 # Table name: *corsi*
 - id
+- id_corso_di_laurea
 - nome_corso
 
 # Table name: *insegnanti*
@@ -33,15 +35,18 @@ Esportare quindi il diagramma in png, caricarlo nella repo in un file index.html
 
 # Table name: *appelli*
 - id
+- id_corso
 - numero_appelli
 
 
 # Table name: *studente*
 - id
+- id_appello
 - nome_studente
 - cognome_studente
 
 # Table name: *risultati*
 - id
+- id_appello
 - voto_studente
 
