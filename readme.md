@@ -13,4 +13,16 @@ Utilizzare https://www.drawio.com/ per la creazione dello schema.
 Esportare quindi il diagramma in png, caricarlo nella repo in un file index.html  nel quale inserite l'immagine come visto in classe.
 
 
+# Table name: *dipartimenti*
 
+# Table name: *corsi_di_laurea*
+
+# Table name: *corsi*
+
+# Table name: *insegnanti*
+
+# Table name: *appelli*
+
+# Table name: *studente*
+
+# Table name: *risultati*
